@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Amogh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from Bengaluru, India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amoghm44" alt="amoghm44" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Azure Automation**
+- 🔭 I’m currently working on **REST Api's and PowerShell Scripting**
 
 - 🌱 I’m currently learning **Software Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amoghm44](https://github.com/amoghm44)
 
-- 📫 How to reach me **https://www.linkedin.com/in/amogh-m-21134b292**
+- 📫 How to reach me **https://www.linkedin.com/in/amoghm44**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
